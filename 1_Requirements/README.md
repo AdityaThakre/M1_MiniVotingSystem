@@ -1,13 +1,19 @@
 # Introduction
-An online voting system is a software platform that allows groups to securely conduct votes and elections. High-quality online voting systems balance ballot security, accessibility, and the overall requirements of an organization's voting event.
+An online voting system is a process in which voters can vote through a software platform.It can allow anyone to vote or choose their voters according to their requirement.
 
-## Requirements
 The data collected for online voting system are as follows:
 - Election Year
 - Branch Code
 - Maximum Roll Numbers
 - Number of Candidates
 - Name of Candidates
+
+There are two pannels 1.student pannel 2.Admin pannel
+For Admin Panel Username: "Admin" Password: "admiN"
+We can add any number of candidates .
+Students can vote according to their choices by login their userid's
+In the admin pannel, admin can delete the votes of students who are not eligible for giving votes.
+After the election the admin can check the results.
 
 ## High Level Requirements
 - Admin should be able to maintain the records for all entries
@@ -26,15 +32,14 @@ The data collected for online voting system are as follows:
 ## Strengths
 - Reduce cost of voting
 - Online voting reduces queue during voters registration and voting
-- Relays messages associated to election fast
+- Sends messages associated to election fast
 
 ## Weakness
-- Technology acceptance
+- Lack of trust in technology
 - Poor infrastructure
-- Behavioral change
 
 ## Opportunities
-- Install a process to enable people with disabilities to vote by themselves easily
+- It can be implemented on wide range of population
 
 ## Threats
 - Increases cyber security risks
@@ -42,16 +47,16 @@ The data collected for online voting system are as follows:
 
 ## 4 W & 1H
 ### What's the purpose of online voting?
-- In organizations,online election voting systems help you make important decisions by gathering the input of your group in a way that’s systematic and verifiable.
+- In organizations,online election voting systems help you make important decisions by gathering the input of your group through voting
 
-### Why online voting is attractive to organizations?
-- Using an online voting tool will generate confidence in the results of your votes and elections, lower your voting-related costs, and streamline the election process for both you and your voters.
+### Why online voting is useful for organizations?
+- Voting is a method to make collective decision or express opinions,it will give them a platform to choose their leadership.Also it will save their time and cost
 
 ### Who uses online voting systems?
 - Corporations, Unions, Clubs, Educational institutions, associations
 
-### When should organizations invest in online voting systems?
-- when you need structure around your votes and elections or when you need to gather feedback in a structured and timely manner.
+### When should invest in online voting systems?
+- When you want to conduct voting in a smooth manner by saving manpower requirements as well as cost
 
 ### How do you use an online voting system?
 - Create, Upload, Notify, Gather & reoprt up results
