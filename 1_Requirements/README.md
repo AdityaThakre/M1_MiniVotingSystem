@@ -9,12 +9,7 @@ The data collected for online voting system are as follows:
 - Number of Candidates
 - Name of Candidates
 
-
-
-- Admin should be able to maintain the records for all entries
-- User could be able to choose the candidtae whom to vote
-- Admin should be able to ban the candidates who are not eligible for votes.
-- Admin should be able to delete the votes of banned students.
+- System should be able to maintain the records for all entries
 
 
 In this system, we have created two panels i.e, admin and student. For admin panel, username is "Admin" and password is "admiN". We can add any number of candidates for voting.Voters can vote according to their choices.Admin has the right to delete votes of voters who are not eligible.After the voting admin can check results.
@@ -32,7 +27,7 @@ In this system, we have created two panels i.e, admin and student. For admin pan
 - It can be implemented on wide range of population
 
 ## Threats
-- Increases cyber security risks
+- Security risks
 - Large data management at regular intervals
 
 ## 4 W & 1H
