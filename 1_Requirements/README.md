@@ -12,7 +12,7 @@ The data collected for online voting system are as follows:
 - System should be able to maintain the records for all entries
 
 
-In this system, we have created two sections i.e, admin and student.In admin section, userID is "Admin" and password is "admiN". We can add any number of candidates for voting.Voters can vote according to their choices.Admin has the right to delete votes of voters who are not eligible.After the voting admin can check results.
+In this system, we have created two sections that is admin and student.In admin section, userID is "Admin" and password is "admiN". We can add any number of candidates for voting.Voters can vote according to their choices.Admin has the right to delete votes of voters who are not eligible.After the voting admin can check results.
 
 ## Strengths
 - Reduce cost of voting
