@@ -8,12 +8,6 @@ The data collected for online voting system are as follows:
 - Number of Candidates
 - Name of Candidates
 
-There are two pannels 1.student pannel 2.Admin pannel
-For Admin Panel Username: "Admin" Password: "admiN"
-We can add any number of candidates .
-Students can vote according to their choices by login their userid's
-In the admin pannel, admin can delete the votes of students who are not eligible for giving votes.
-After the election the admin can check the results.
 
 ## High Level Requirements
 - Admin should be able to maintain the records for all entries
